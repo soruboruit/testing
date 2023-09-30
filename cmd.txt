@@ -1,0 +1,7 @@
+git add .
+    作ったファイルを追加？
+git commit -m "tekitou ni comento"
+    コミットする
+
+git push
+    ギットハブに送る
